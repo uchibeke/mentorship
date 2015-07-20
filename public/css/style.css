@@ -1,0 +1,15 @@
+.gradient {
+  background: -webkit-linear-gradient(315deg, #BF2B2B, #EE914B);
+  background: linear-gradient(135deg, #BF2B2B, #EE914B);
+}
+
+.gradient h1 {
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.fulltab {
+  width: 50%;
+  border-bottom: 1px solid #e1e1e1;
+}
